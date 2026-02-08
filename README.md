@@ -1,4 +1,19 @@
+<div align="center">
+
+
 # A Geospatial Framework for Urban Heat Mitigation through Corridor Optimization and Targeted Interventions
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white)](https://geopandas.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+*A data-driven decision-support system for identifying thermally comfortable urban corridors and recommending climate-responsive interventions*
+
+</div>
+
+---
 
 This repository contains the implementation of a geospatial decision-support system that identifies thermally comfortable corridors in urban areas and recommends targeted interventions (like tree plantation and cool roof installations) to mitigate heat island effects. The framework integrates satellite-derived indicators such as Land Surface Temperature (LST), NDVI, NDBI, and wind data to compute a composite “coolness” score and optimize routing for walking/cycling.
 
